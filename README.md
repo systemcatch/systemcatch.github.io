@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+systemcat.ch
 
 **This site is under construction, please check back later!**
